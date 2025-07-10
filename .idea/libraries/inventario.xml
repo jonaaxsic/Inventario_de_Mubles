@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inventario">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/inventario.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -58,17 +58,17 @@ public class CrearTarea extends javax.swing.JFrame {
         jDateChooser1 = new com.toedter.calendar.JDateChooser();
         jSeparator1 = new javax.swing.JSeparator();
         jbtVolver = new EstilosBotones.GradientButton(
-            "VOLVER AL MENU", // El texto del botón
-            new java.awt.Color(131, 145, 146), // Color inicial
-            new java.awt.Color(213, 219, 219 ));
+            "VOLVER AL MENU", 
+            new java.awt.Color(131, 145, 146),
+            new java.awt.Color(213, 219,219 ));
         jbtGuardarTareas = new EstilosBotones.GradientButton(
-            "CREAR TAREA", // El texto del botón
-            new java.awt.Color(63, 81, 110), // Color inicial
+            "CREAR TAREA", 
+            new java.awt.Color(63, 81, 110),
             new java.awt.Color(41, 128, 185));
         jLabel5 = new javax.swing.JLabel();
         jbtLimpiar = new EstilosBotones.GradientButton(
-            "LIMPIAR", // El texto del botón
-            new java.awt.Color(125, 60, 152), // Color inicial
+            "LIMPIAR",
+            new java.awt.Color(125, 60, 152), 
             new java.awt.Color(165, 105, 189 ));
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -78,17 +78,17 @@ public class CrearTarea extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(153, 153, 153));
 
-        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); 
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("CREAR NUEVA TAREA");
 
-        jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         jLabel2.setForeground(new java.awt.Color(51, 51, 51));
         jLabel2.setText("Tipo de Tarea");
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Piking", "Inventario", "Almacenar", "Recepcion", "Despacho" }));
 
-        jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         jLabel3.setForeground(new java.awt.Color(51, 51, 51));
         jLabel3.setText("Descripcion de tarea");
 
@@ -103,7 +103,7 @@ public class CrearTarea extends javax.swing.JFrame {
         jDateChooser1.setForeground(new java.awt.Color(0, 0, 0));
 
         jbtVolver.setForeground(new java.awt.Color(0, 0, 0));
-        jbtVolver.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/volver-flecha 20px.png"))); // NOI18N
+        jbtVolver.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/volver-flecha 20px.png"))); 
         jbtVolver.setText("VOLVER AL MENU");
         jbtVolver.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -112,7 +112,7 @@ public class CrearTarea extends javax.swing.JFrame {
         });
 
         jbtGuardarTareas.setBackground(new java.awt.Color(63, 81, 110));
-        jbtGuardarTareas.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/agregar-tarea25px.png"))); // NOI18N
+        jbtGuardarTareas.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/agregar-tarea25px.png"))); 
         jbtGuardarTareas.setText("CREAR TAREA");
         jbtGuardarTareas.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -120,11 +120,11 @@ public class CrearTarea extends javax.swing.JFrame {
             }
         });
 
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/capsule2.png"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/capsule2.png")));
 
         jbtLimpiar.setBackground(new java.awt.Color(102, 0, 204));
         jbtLimpiar.setForeground(new java.awt.Color(255, 255, 255));
-        jbtLimpiar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/goma-de-borrar 20px.png"))); // NOI18N
+        jbtLimpiar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Formulario/goma-de-borrar 20px.png"))); 
         jbtLimpiar.setText("LIMPIAR");
         jbtLimpiar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

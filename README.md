@@ -1,6 +1,6 @@
 # Sistema de Inventario de Muebles
 
-![Java](https://img.shields.io/badge/Java%20JDK%2024-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)! [JavaSwing](https://img.shields.io/badge/Java%20Swing-008000?style=for-the-badge&logo=java&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20JDK%2024-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaSwing](https://img.shields.io/badge/Java%20Swing-008000?style=for-the-badge&logo=java&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-Jonaaxsic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaaxsic)
 
 ## 📌 Descripción
